@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UDP demo</string>
+    <string name="hint_content">输入发送内容</string>
+    <string name="hint_ip">请输入ip，为空则使用本机ip</string>
+    <string name="send">SEND</string>
+</resources>
